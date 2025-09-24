@@ -1,0 +1,8 @@
+# HACKPHISHER - requirements.txt
+# This file lists the exact dependencies required to run HACKPHISHER properly.
+# To install:
+# pip install -r requirements.txt
+
+Flask>=2.3.3
+requests>=2.32.3
+beautifulsoup4>=4.13.4
